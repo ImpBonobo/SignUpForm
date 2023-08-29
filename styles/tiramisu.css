@@ -1,0 +1,47 @@
+:root{
+    --backcolor: #381768;
+    --textcolor: #b6b5cb;
+    --ptagtextcol: #fff2a9;
+    --divcol: #2b2985;
+    --h2color: #51e751;
+}
+body{
+    background-color: #381768;
+}
+div{
+    text-align: left;
+    color: var(--textcolor);
+    background-color: var(--divcol);
+    border-radius: 30px;
+    padding: 10px;
+    margin: 5px;
+}
+.questions{
+    border: 1px solid #66cedb;
+}
+
+.ingredients{
+    border: 1px solid #66dbb8;
+}
+
+.procedure{
+    border: 1px solid #66db9b;
+}
+h1{
+    color: azure;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: var(--h2color);
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: var(--ptagtextcol);
+}
+img{
+    align-items: center;
+}
