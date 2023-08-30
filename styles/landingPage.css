@@ -1,0 +1,25 @@
+:root{
+    --hcolor: white;
+    --txtcolor: rgba(255, 255, 255, 0.658);
+}
+
+* {
+    background-color: rgb(26, 27, 58);
+    color: var(--hcolor);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0.8rem;
+    margin: 1.1rem;
+}
+
+.header1{
+    text-align: right;
+}
+.element{
+    padding: 20px;
+}
+.other{
+    background-color: red;
+}
+.header1.element{
+    text-align: center;
+}

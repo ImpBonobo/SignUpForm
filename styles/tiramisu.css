@@ -8,6 +8,7 @@
 body{
     background-color: #381768;
 }
+
 div{
     text-align: left;
     color: var(--textcolor);
@@ -44,4 +45,6 @@ p{
 }
 img{
     align-items: center;
+    height: auto;
+    width: auto;
 }
