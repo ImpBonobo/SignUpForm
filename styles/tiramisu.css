@@ -7,10 +7,11 @@
 }
 body{
     background-color: #381768;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 div{
-    text-align: left;
+    text-align: center;
     color: var(--textcolor);
     background-color: var(--divcol);
     border-radius: 30px;

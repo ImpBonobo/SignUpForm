@@ -6,13 +6,15 @@
 * {
     background-color: rgb(26, 27, 58);
     color: var(--hcolor);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    padding: 0.8rem;
-    margin: 1.1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 1rem;
+    border-radius: 15px;
+    border: 1px solid #6ba81f;
+    margin: 0.8rem;
 }
 
 .header1{
-    text-align: right;
+    text-align: center;
 }
 .element{
     padding: 20px;
