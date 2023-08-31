@@ -1,0 +1,23 @@
+p, 
+ul {
+  border: 2px solid rebeccapurple;
+  padding: .6em;
+}
+
+.block,
+li {
+  border: 2px solid blue;
+  padding: .5em;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  border: 2px solid rgb(255, 238, 0);
+}
+
+.block {
+  display: block;
+  border: 2px solid rgb(255, 0, 221);
+}      
+   
